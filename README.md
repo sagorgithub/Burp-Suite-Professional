@@ -104,8 +104,8 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 
  <details><summary>$${\color{green}Credit 👇}$$</summary>
 
-* Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
-* Script 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
+<!-- * Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
+* Script 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro) -->
 
 </details>
 </h2>
